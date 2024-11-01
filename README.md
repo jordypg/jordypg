@@ -1,4 +1,8 @@
-## Hi there 👋
+## About Me
+
+I am a problem-solver and systems thinker. I majored in 
+
+- LinkedIn: [jordypg](https://www.linkedin.com/in/jordan-perry-greene-873870279)
 
 <!--
 **jordypg/jordypg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

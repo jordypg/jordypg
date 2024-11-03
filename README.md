@@ -5,7 +5,7 @@ website in progress!
 
 I like ML and databases, and I'd like to learn more about containerization.
 
-I would like to one day build a great system for the training of top-tier models, or to architect a massive company-saving database refactoring.
+I would like to one day build a great system for the training of top-tier models, or to architect a company-saving database refactoring.
 
 
 

@@ -21,7 +21,7 @@ More work that's not visible here:
 
 2021 - Worked at now-defunct RPA startup Mesmer, which leveraged computer vision models for automated app testing. I made an AWS pipeline for handling training and model data during the fine-tuning of these models. I also trained models myself using xgboost, and modularized and refactored various code.
 
-2020 - Collaborated with Prof. Lee Spector and fellow researchers in autoconstructive evolution and genetic programming projects. This was centered around the family of genetic programming languages Push; in hopes of understanding AI black-box behavior, I made a visualizer in Clojure to visually present the execution of these models.
+2020 - Genetic programming research in a team led by Prof. Lee Spector. This was centered around the family of genetic programming languages Push; in hopes of understanding AI black-box behavior, I made a visualizer in Clojure to visually present the execution of these models.
 
 
 

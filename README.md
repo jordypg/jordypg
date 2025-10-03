@@ -13,6 +13,8 @@ I would like to one day build a great system for the training of top-tier models
 
 More work that's not visible here:
 
+2025 – Managing data collection and reporting for service organizations @Trestle
+
 2024 - recent database work for Amherst depts/labs is in private repos for security purposes. I wrote about them in my LinkedIn [projects](https://www.linkedin.com/in/jordan-perry-greene-873870279/details/projects/)!
 
 2023 - My math major

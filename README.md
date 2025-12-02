@@ -4,7 +4,6 @@ Minimal online presence.
 
 I like ML, fullstack development, and databases.
 
-
 <br><br>
 
 More work that's not visible here:

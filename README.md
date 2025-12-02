@@ -4,7 +4,7 @@
 
 I like ML, fullstack development, and databases.
 
-I would like to one day build a great system for the training of top-tier models, or to architect a company-saving database refactoring.
+Minimal online presence.
 
 
 

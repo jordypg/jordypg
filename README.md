@@ -1,11 +1,8 @@
 ## JPG
+Minimal online presence.
 <br><br>
 
-
 I like ML, fullstack development, and databases.
-
-Minimal online presence.
-
 
 
 <br><br>

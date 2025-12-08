@@ -67,6 +67,17 @@ Applying RL methods to a simple but deep MDP board game with an absurd state spa
 
 ---
 
+### 2024 - Pleiades: Hyperspace Trader
+
+Multiplayer board game developed with Nick and Ben Howe
+
+- **[Box and pieces](https://www.dropbox.com/scl/fi/edeix6cplzqm4z6levman/Hyperspace.mov?rlkey=hzkfgs4rzhrk196nh8uaq0al2&st=fc9ezrjm&dl=0)
+- Merchant game set in space, featuring player interaction without hostility
+- Playtested and collected feedback, rebalancing and reworking mechanics 
+- Edited rulebook
+
+---
+
 ### 2024 – Amherst Database Infrastructure
 *(Private repos for security purposes)*
 

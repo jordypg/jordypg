@@ -5,7 +5,23 @@ Minimal online presence.
 
 Projects:
 
-2025 – Collaborative Canvas Planner. Repo: [CanvasPlanner](https://github.com/jordypg/canvasplanner)
+2025 - Orbit Pipeline. Repo: [orbit](https://github.com/jordypg/orbit). A pipeline execution framework built for a monolith infrastructure.
+- Demo [video](https://www.dropbox.com/scl/fi/7q3d2a5381qbfy85rihrw/Pipeline_Demo.mov?rlkey=v56imgexpmxtyu1fvjcgndiiv&st=0zg2e4nf&dl=0) showing it off!
+- Operates in your TypeScript backend, using type-safe handlers instead of YAML configs. A library to import rather than a platform to deploy.
+- Built-in and configurable behavior for automatic retry logic, state persistence, crash recovery, background wokers, and real-time performance monitoring
+- CLI functionality
+- Web dashboard interface for monitoring and management.
+
+2025 – Collaborative Canvas Planner. Repo: [CanvasPlanner](https://github.com/jordypg/canvasplanner). Learning about products like Figma by building an online multi-user planning tool.
+- Demo [video](https://www.dropbox.com/scl/fi/musx1q87pxoz6agl77ltz/collaborative_canvas_demo.mp4?rlkey=jbd7j6kqaynoxm01betofm6a4&st=d5apkdqk&dl=0) explaining how it works!
+- Built-in graph-based time planner to estimate workflow duration.
+- Exploring sync engines, websockets, and multiplayer.
+- Uses a node-based interface, built with react-flow, convex, and Socket.IO.
+- Client-side caching to prevent unnecessary rerenders
+
+On-and-off: Cathedral. Repo: [Cathedral](https://github.com/jordypg/Cathedral)
+- Applying RL methods to a simple but deep MDP board game with an absurd state space.
+- Experimenting with MCTS, Deep-Q Learning, and Approximate Q-Learning.
 
 2024 – Amherst Database Infra (in private repos for security purposes). I wrote about them in my LinkedIn [projects](https://www.linkedin.com/in/jordan-perry-greene-873870279/details/projects/)!
 - Religion Library DB, Lycium DB, Hollaway Classics Library DB, Binary Worlds Lab Website
@@ -16,7 +32,7 @@ Projects:
 
 2023 - Completed my math major! Focus on Galois and Group Theory.
 
-2022 - LLM lay summary of scientific papers: [PEGembed](https://huggingface.co/jordypg/PEGembed). For the grad course Advanced NLP w/Prof. Mohit Iyyer, developed over 4 months with the help of Zhiheng Wang, Jiarui Liu, and Ahmed Jaafar.
+2022 - LLM lay summary of scientific paper. Repo: [laysumm](https://github.com/jordypg/laysumm), HuggingFace: [PEGembed](https://huggingface.co/jordypg/PEGembed). For the grad course Advanced NLP w/Prof. Mohit Iyyer, developed over 4 months with the help of Zhiheng Wang, Jiarui Liu, and Ahmed Jaafar.
 - Researched and developed fine-tuned generative AI model
 - Adapted [Seungwon Kim's method (2020)](https://aclanthology.org/2020.sdp-1.38/) of extractive summary, followed by abstractive summary
 - Extractive summary using cosine similarity to extract top N sentences
